@@ -276,3 +276,7 @@ body {
   color: white !important;
 }
 
+.iziToast-message,
+.iziToast-title {
+  color: white!important;
+}
